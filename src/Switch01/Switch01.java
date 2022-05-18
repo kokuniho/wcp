@@ -1,5 +1,4 @@
 package Switch01;
-
 public class Switch01 {
 	public static void main(String[] args) {
 		int val = 2;
@@ -14,5 +13,4 @@ public class Switch01 {
 			System.out.println("頑張ろう！");
 		}
 	}
-
 }
