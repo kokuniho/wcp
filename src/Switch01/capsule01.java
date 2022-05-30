@@ -12,8 +12,6 @@ public class capsule01 {
 		System.out.println("名前は" + human2.getName() + ", 年齢は" + human2.getAge() + "です。");
 		// 変更は、setterメソッドを使用する
 		human2.setName("佐々木");
-		System.out.println("変更した名前は" + human2.getName() + "です");
-		
+		System.out.println("変更した名前は" + human2.getName() + "です");	
 	}
-
 }
